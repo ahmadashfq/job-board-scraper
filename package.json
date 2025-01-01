@@ -1,17 +1,1 @@
-{
-  "name": "job-board-scraper",
-  "version": "1.0.0",
-  "description": "An Apify actor for scraping job boards for graphic design opportunities",
-  "main": "src/main.js",
-  "dependencies": {
-    "apify": "^3.1.8",
-    "crawlee": "^3.0.0",
-    "got-scraping": "^3.2.15"
-  },
-  "scripts": {
-    "start": "node src/main.js"
-  },
-  "type": "module",
-  "author": "",
-  "license": "ISC"
-}
+{"name": "job-board-scraper","version": "1.0.0","description": "An Apify actor for scraping job boards for graphic design opportunities","main": "src/main.js","dependencies": {"apify": "^3.1.8","crawlee": "^3.0.0","got-scraping": "^3.2.15"},"scripts": {"start": "node src/main.js"},"type": "module","author": "","license": "ISC"}
